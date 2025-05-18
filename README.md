@@ -1,2 +1,2 @@
-# sms-spam--classifier-notebook
-simple machine learning projects
+# email-spam-classifier-new
+End to end code for the email spam classifier project
